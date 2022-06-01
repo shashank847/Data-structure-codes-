@@ -19,7 +19,7 @@ typedef struct matrix
     int nodecount;
 }matrix;
 
-
+// prototype definition
 
 void mat(matrix *,int,int);
 void creatematrice(matrix *,int,int,int);
